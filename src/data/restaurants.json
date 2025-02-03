@@ -1,0 +1,52 @@
+{
+  "places": [
+    {
+      "id": 71,
+      "name": "Bait Al Luban",
+      "type": "restaurant",
+      "description": "Traditional Omani cuisine with sea views",
+      "longDescription": "Bait Al Luban offers an authentic Omani dining experience in a traditional setting. Located in a restored historic house, the restaurant serves traditional Omani and Arabic cuisine with stunning views of the Mutrah Corniche. The menu features local specialties like Shuwa, Harees, and fresh seafood dishes, accompanied by traditional Omani hospitality.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Mutrah",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6172,
+        "lng": 58.5633,
+        "mapUrl": "https://www.google.com/maps/place/Bait+Al+Luban/@23.6172,58.5633,17z"
+      },
+      "contact": {
+        "phone": "+968 2471 1842",
+        "email": "info@baitalluban.com",
+        "address": "Al Mina Street, Mutrah"
+      },
+      "openingHours": "Daily: 12:30 PM - 11:00 PM",
+      "cuisine": "Omani, Arabic",
+      "priceRange": "$$"
+    },
+    {
+      "id": 72,
+      "name": "Kurkum",
+      "type": "restaurant",
+      "description": "Modern Omani fusion cuisine",
+      "longDescription": "Kurkum presents a modern take on traditional Omani cuisine, blending local flavors with contemporary culinary techniques. The restaurant's innovative menu features reimagined Omani classics alongside fusion dishes that combine local ingredients with international cooking styles. The sleek, modern interior creates a sophisticated dining atmosphere.",
+      "image": "https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Qurum",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.5985,
+        "lng": 58.4562,
+        "mapUrl": "https://www.google.com/maps/place/Kurkum/@23.5985,58.4562,17z"
+      },
+      "contact": {
+        "phone": "+968 2456 7890",
+        "email": "dine@kurkum.om",
+        "address": "Al Qurum Commercial Area"
+      },
+      "openingHours": "Daily: 1:00 PM - 11:30 PM",
+      "cuisine": "Modern Omani, Fusion",
+      "priceRange": "$$$"
+    }
+  ]
+}

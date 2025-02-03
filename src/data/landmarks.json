@@ -1,0 +1,70 @@
+{
+  "places": [
+    {
+      "id": 41,
+      "name": "Jebel Akhdar",
+      "type": "landmark",
+      "description": "Green Mountain with terraced farms and ancient villages",
+      "longDescription": "Jebel Akhdar, meaning 'Green Mountain' in Arabic, is one of Oman's most spectacular regions. Famous for its terraced farms, ancient villages, and cool climate, it offers hiking trails, stunning views, and the chance to see traditional rose water production. The area is particularly beautiful during spring when damask roses bloom.",
+      "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Jabal Al Akhdar",
+        "state": "Al Dakhiliyah",
+        "city": "Nizwa",
+        "lat": 23.0666,
+        "lng": 57.6685,
+        "mapUrl": "https://www.google.com/maps/place/Jebel+Akhdar/@23.0666,57.6685,17z"
+      },
+      "travelAgencies": [
+        {
+          "name": "Oman Trekking",
+          "avatar": "https://images.unsplash.com/photo-1472498863741-3f5f1d51c48f?auto=format&fit=crop&w=50&h=50&q=80",
+          "website": "https://www.omantrekking.com"
+        },
+        {
+          "name": "Mountain Adventures",
+          "avatar": "https://images.unsplash.com/photo-1485110168560-69d4ac37b23e?auto=format&fit=crop&w=50&h=50&q=80",
+          "website": "https://www.mountainadventures.om"
+        }
+      ],
+      "contact": {
+        "phone": "+968 9999 1234",
+        "email": "info@jebelakhdar.om",
+        "address": "Al Jabal Al Akhdar, Nizwa"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Salalah Beach",
+      "type": "landmark",
+      "description": "Tropical paradise during khareef season",
+      "longDescription": "Salalah Beach transforms into a tropical paradise during the khareef (monsoon) season from June to September. The area features pristine white sand beaches, coconut-fringed coastlines, and waterfalls. During khareef, the mountains turn lush green, creating a unique contrast with the desert landscape.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Salalah",
+        "state": "Dhofar",
+        "city": "Salalah",
+        "lat": 17.0151,
+        "lng": 54.0924,
+        "mapUrl": "https://www.google.com/maps/place/Salalah+Beach/@17.0151,54.0924,17z"
+      },
+      "travelAgencies": [
+        {
+          "name": "Dhofar Tours",
+          "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=50&h=50&q=80",
+          "website": "https://www.dhofartours.com"
+        },
+        {
+          "name": "Salalah Adventures",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=50&h=50&q=80",
+          "website": "https://www.salalahadventures.com"
+        }
+      ],
+      "contact": {
+        "phone": "+968 9888 5678",
+        "email": "visit@salalahbeach.om",
+        "address": "Al Maghsail, Salalah"
+      }
+    }
+  ]
+}

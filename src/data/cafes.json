@@ -1,0 +1,48 @@
+{
+  "places": [
+    {
+      "id": 91,
+      "name": "Caramel Room",
+      "type": "cafe",
+      "description": "Luxury cafe with stunning sea views",
+      "longDescription": "The Caramel Room offers a sophisticated cafe experience with panoramic views of the Gulf of Oman. Known for its artisanal coffee, French pastries, and signature caramel desserts, this cafe combines luxury with comfort. The interior features elegant modern design with traditional Omani touches.",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Qurum",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6147,
+        "lng": 58.5931,
+        "mapUrl": "https://www.google.com/maps/place/Caramel+Room/@23.6147,58.5931,17z"
+      },
+      "contact": {
+        "phone": "+968 2469 9900",
+        "email": "info@caramelroom.om",
+        "address": "Al Qurum Beach Road"
+      },
+      "openingHours": "Daily: 8:00 AM - 11:00 PM"
+    },
+    {
+      "id": 92,
+      "name": "Third Wave Coffee",
+      "type": "cafe",
+      "description": "Specialty coffee and artisanal brews",
+      "longDescription": "Third Wave Coffee is at the forefront of Oman's specialty coffee scene. This cafe sources beans from premium coffee regions worldwide and employs skilled baristas who craft each cup with precision. The minimalist industrial design creates a perfect atmosphere for coffee enthusiasts.",
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Ghubra",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.5889,
+        "lng": 58.4006,
+        "mapUrl": "https://www.google.com/maps/place/Third+Wave+Coffee/@23.5889,58.4006,17z"
+      },
+      "contact": {
+        "phone": "+968 9123 4567",
+        "email": "brew@thirdwave.om",
+        "address": "Al Ghubra South"
+      },
+      "openingHours": "Daily: 7:00 AM - 10:00 PM"
+    }
+  ]
+}

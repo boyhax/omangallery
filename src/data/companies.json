@@ -1,0 +1,56 @@
+{
+  "places": [
+    {
+      "id": 81,
+      "name": "Petroleum Development Oman",
+      "type": "company",
+      "description": "Oman's leading oil and gas exploration company",
+      "longDescription": "Petroleum Development Oman (PDO) is the leading exploration and production company in the Sultanate. The company delivers the majority of the country's crude oil production and natural gas supply. PDO operates in a concession area of about 90,000 km2 (one-third of Oman's geographical area).",
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Mina Al Fahal",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6276,
+        "lng": 58.5444,
+        "mapUrl": "https://www.google.com/maps/place/Petroleum+Development+Oman/@23.6276,58.5444,17z"
+      },
+      "contact": {
+        "phone": "+968 2467 8111",
+        "email": "contact@pdo.co.om",
+        "address": "Mina Al Fahal, Muscat"
+      },
+      "socialLinks": {
+        "website": "https://www.pdo.co.om",
+        "linkedin": "https://www.linkedin.com/company/pdo",
+        "twitter": "https://twitter.com/PDO_OM"
+      }
+    },
+    {
+      "id": 82,
+      "name": "Bank Muscat",
+      "type": "company",
+      "description": "Oman's largest financial services provider",
+      "longDescription": "Bank Muscat is the leading financial services provider in Oman with a strong presence in corporate banking, retail banking, investment banking, treasury, private banking and asset management. The bank has the largest network of branches and ATMs in Oman.",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "CBD",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.5841,
+        "lng": 58.4078,
+        "mapUrl": "https://www.google.com/maps/place/Bank+Muscat+Head+Office/@23.5841,58.4078,17z"
+      },
+      "contact": {
+        "phone": "+968 2476 8888",
+        "email": "customerservice@bankmuscat.com",
+        "address": "CBD Area, Muscat"
+      },
+      "socialLinks": {
+        "website": "https://www.bankmuscat.com",
+        "linkedin": "https://www.linkedin.com/company/bankmuscat",
+        "twitter": "https://twitter.com/bankmuscat"
+      }
+    }
+  ]
+}

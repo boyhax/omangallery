@@ -1,0 +1,70 @@
+{
+  "places": [
+    {
+      "id": 61,
+      "name": "National Museum of Oman",
+      "type": "museum",
+      "description": "Showcasing Oman's rich cultural heritage",
+      "longDescription": "The National Museum of Oman is the country's flagship cultural institution, showcasing the Sultanate's rich heritage from the earliest human settlement to the present day. The museum houses over 7,000 objects across 14 permanent galleries, including rare artifacts, manuscripts, and traditional crafts. Interactive displays and multimedia presentations make history come alive for visitors.",
+      "image": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Old Muscat",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6139,
+        "lng": 58.5922,
+        "mapUrl": "https://www.google.com/maps/place/National+Museum+of+Oman/@23.6139,58.5922,17z"
+      },
+      "contact": {
+        "phone": "+968 2208 1500",
+        "email": "info@nmo.gov.om",
+        "address": "Al Mina Street, Old Muscat"
+      },
+      "openingHours": "Saturday to Thursday: 10:00 AM - 5:00 PM, Friday: 2:00 PM - 6:00 PM"
+    },
+    {
+      "id": 62,
+      "name": "Bait Al Zubair Museum",
+      "type": "museum",
+      "description": "Traditional Omani architecture and culture",
+      "longDescription": "Bait Al Zubair Museum is housed in a traditional Omani mansion, offering visitors insight into Omani heritage and culture. The museum features traditional weapons, jewelry, costumes, and household items. Its beautiful garden contains a miniature Omani village, showcasing traditional architecture. The museum also hosts temporary exhibitions of contemporary Omani art.",
+      "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Old Muscat",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6147,
+        "lng": 58.5931,
+        "mapUrl": "https://www.google.com/maps/place/Bait+Al+Zubair+Museum/@23.6147,58.5931,17z"
+      },
+      "contact": {
+        "phone": "+968 2208 4700",
+        "email": "info@baitalzubair.com",
+        "address": "Al Saidiya Street, Old Muscat"
+      },
+      "openingHours": "Saturday to Thursday: 9:30 AM - 6:00 PM, Friday: Closed"
+    },
+    {
+      "id": 63,
+      "name": "Natural History Museum",
+      "type": "museum",
+      "description": "Exploring Oman's natural heritage",
+      "longDescription": "The Natural History Museum showcases Oman's diverse flora, fauna, and geological heritage. Exhibits include specimens of local wildlife, botanical collections, and geological formations. The museum features interactive displays about marine life, desert ecosystems, and the country's unique geological history, making it particularly popular with school groups and families.",
+      "image": "https://images.unsplash.com/photo-1574169208507-84376144848b?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Qurum",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6142,
+        "lng": 58.5928,
+        "mapUrl": "https://www.google.com/maps/place/Natural+History+Museum/@23.6142,58.5928,17z"
+      },
+      "contact": {
+        "phone": "+968 2208 4600",
+        "email": "info@nhm.gov.om",
+        "address": "Al Qurum, Muscat"
+      },
+      "openingHours": "Sunday to Thursday: 9:00 AM - 4:30 PM, Friday & Saturday: Closed"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "places": [
+    {
+      "id": 101,
+      "name": "Qurum Natural Park",
+      "type": "park",
+      "description": "Vast green space with recreational facilities",
+      "longDescription": "Qurum Natural Park is one of Muscat's largest and most popular public parks. Spanning over 137 acres, it features artificial lakes, musical fountains, children's play areas, and walking tracks. The park is particularly beautiful during sunset when the fountains are illuminated with colorful lights.",
+      "image": "https://images.unsplash.com/photo-1568515387631-8b650bbcdb90?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Qurum",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.6147,
+        "lng": 58.5931,
+        "mapUrl": "https://www.google.com/maps/place/Qurum+Natural+Park/@23.6147,58.5931,17z"
+      },
+      "contact": {
+        "phone": "+968 2456 7890",
+        "email": "info@qurumpark.om",
+        "address": "Al Qurum"
+      },
+      "openingHours": "Daily: 8:00 AM - 11:00 PM"
+    },
+    {
+      "id": 102,
+      "name": "Al Ansab Wetland",
+      "type": "park",
+      "description": "Natural wetland with diverse bird species",
+      "longDescription": "Al Ansab Wetland is a unique environmental park that serves as a haven for migratory birds and local wildlife. The park features boardwalks through the wetlands, bird watching hides, and educational centers. It's an important site for environmental education and conservation in Oman.",
+      "image": "https://images.unsplash.com/photo-1500930287596-c1ecaa373bb2?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "name": "Al Ansab",
+        "state": "Muscat",
+        "city": "Muscat",
+        "lat": 23.5672,
+        "lng": 58.4028,
+        "mapUrl": "https://www.google.com/maps/place/Al+Ansab+Wetland/@23.5672,58.4028,17z"
+      },
+      "contact": {
+        "phone": "+968 2450 0123",
+        "email": "visit@alansabwetland.om",
+        "address": "Al Ansab"
+      },
+      "openingHours": "Saturday to Thursday: 8:00 AM - 4:00 PM, Friday: Closed"
+    }
+  ]
+}
