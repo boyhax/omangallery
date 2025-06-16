@@ -24,9 +24,8 @@ npm start
 
 🛠️ Built With
 - HTML, CSS, JavaScript
-- React / Vue / Angular (select as appropriate)
-- Node.js / Express.js (if backend involved)
-- Google Maps API / Leaflet (if map integration is used)
+- Astrojs and React 
+- Node.js
 📂 Project Structure
 ```
 /omangallary
